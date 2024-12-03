@@ -1,1 +1,3 @@
-# trading_analysis
+# Trading Analysis
+
+Stocks, Futures, Options, Crypto
